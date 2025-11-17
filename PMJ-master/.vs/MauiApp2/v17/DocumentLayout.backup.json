@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\mauiapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\mauiapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\services\\yoloonnxpredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\services\\yoloonnxpredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\pages\\feedbackpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\pages\\feedbackpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\pages\\feedbackpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\pages\\feedbackpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\services\\firestorerecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\services\\firestorerecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\services\\firebasestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\services\\firebasestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\pages\\capturepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\pages\\capturepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\pages\\statisticspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\pages\\statisticspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\pages\\statisticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\pages\\statisticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\models\\detection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\models\\detection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\models\\foodrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\models\\foodrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\models\\feedbackrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\models\\feedbackrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\models\\foodriskevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\models\\foodriskevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\pages\\overlaydrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\pages\\overlaydrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\mauiapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\mauiapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiApp2\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\pages\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\pages\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|c:\\users\\user\\source\\repos\\pmj-master\\pmj-master\\mauiapp2\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E4C99-CDAD-4465-B710-BAAAFB40090C}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YoloOnnxPredictor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Services\\YoloOnnxPredictor.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Services\\YoloOnnxPredictor.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Services\\YoloOnnxPredictor.cs",
+              "RelativeToolTip": "MauiApp2\\Services\\YoloOnnxPredictor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:55:44.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f96a0d64-71fd-316f-b663-924c78154f2a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiApp2.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\MauiApp2.csproj",
+              "RelativeDocumentMoniker": "MauiApp2\\MauiApp2.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\MauiApp2.csproj",
+              "RelativeToolTip": "MauiApp2\\MauiApp2.csproj",
+              "ViewState": "AgIAAA0AAAAAb+FXYyITwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T18:41:30.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeedbackPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\FeedbackPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Pages\\FeedbackPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\FeedbackPage.xaml.cs",
+              "RelativeToolTip": "MauiApp2\\Pages\\FeedbackPage.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwE8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:10:58.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeedbackPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\FeedbackPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp2\\Pages\\FeedbackPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\FeedbackPage.xaml",
+              "RelativeToolTip": "MauiApp2\\Pages\\FeedbackPage.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T18:40:53.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatisticsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\StatisticsPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp2\\Pages\\StatisticsPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\StatisticsPage.xaml",
+              "RelativeToolTip": "MauiApp2\\Pages\\StatisticsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T03:36:15.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp2\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "MauiApp2\\Pages\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T18:32:00.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "MauiApp2\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:32:22.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MauiApp2\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\AppShell.xaml",
+              "RelativeToolTip": "MauiApp2\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T03:52:36.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirestoreRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Services\\FirestoreRecordService.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Services\\FirestoreRecordService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Services\\FirestoreRecordService.cs",
+              "RelativeToolTip": "MauiApp2\\Services\\FirestoreRecordService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:35:52.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FirebaseStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Services\\FirebaseStorageService.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Services\\FirebaseStorageService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Services\\FirebaseStorageService.cs",
+              "RelativeToolTip": "MauiApp2\\Services\\FirebaseStorageService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:34:29.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CapturePage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\CapturePage.xaml",
+              "RelativeDocumentMoniker": "MauiApp2\\Pages\\CapturePage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\CapturePage.xaml",
+              "RelativeToolTip": "MauiApp2\\Pages\\CapturePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T10:57:56.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Detection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Models\\Detection.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Models\\Detection.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Models\\Detection.cs",
+              "RelativeToolTip": "MauiApp2\\Models\\Detection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:57:51.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatisticsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\StatisticsPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Pages\\StatisticsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\StatisticsPage.xaml.cs",
+              "RelativeToolTip": "MauiApp2\\Pages\\StatisticsPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:36:17.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodRecord.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Models\\FoodRecord.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Models\\FoodRecord.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Models\\FoodRecord.cs",
+              "RelativeToolTip": "MauiApp2\\Models\\FoodRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:57:53.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FeedbackRecord.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Models\\FeedbackRecord.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Models\\FeedbackRecord.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Models\\FeedbackRecord.cs",
+              "RelativeToolTip": "MauiApp2\\Models\\FeedbackRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:18:49.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FoodRiskEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Models\\FoodRiskEvaluator.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Models\\FoodRiskEvaluator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Models\\FoodRiskEvaluator.cs",
+              "RelativeToolTip": "MauiApp2\\Models\\FoodRiskEvaluator.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:57:54.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\App.xaml",
+              "RelativeDocumentMoniker": "MauiApp2\\App.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\App.xaml",
+              "RelativeToolTip": "MauiApp2\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T18:31:02.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OverlayDrawable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\OverlayDrawable.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Pages\\OverlayDrawable.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\OverlayDrawable.cs",
+              "RelativeToolTip": "MauiApp2\\Pages\\OverlayDrawable.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwHwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:08:34.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MauiApp2",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\MauiApp2.csproj",
+              "RelativeDocumentMoniker": "MauiApp2\\MauiApp2.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\MauiApp2.csproj",
+              "RelativeToolTip": "MauiApp2\\MauiApp2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T03:02:35.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\App.xaml.cs",
+              "RelativeToolTip": "MauiApp2\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:31:12.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Pages\\RegisterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "MauiApp2\\Pages\\RegisterPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:32:38.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp2\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\MainPage.xaml",
+              "RelativeToolTip": "MauiApp2\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T11:11:28.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\MauiProgram.cs",
+              "RelativeToolTip": "MauiApp2\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:33:23.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp2\\Pages\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Pages\\RegisterPage.xaml",
+              "RelativeToolTip": "MauiApp2\\Pages\\RegisterPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T18:32:13.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "MauiApp2\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAABZwD8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T00:39:41.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "MauiApp2\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:35:43.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PMJ-master\\PMJ-master\\MauiApp2\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiApp2\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:11:36.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

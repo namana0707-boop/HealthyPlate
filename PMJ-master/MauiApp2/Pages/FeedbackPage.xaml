@@ -1,0 +1,59 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:lvc="clr-namespace:LiveChartsCore.SkiaSharpView.Maui;assembly=LiveChartsCore.SkiaSharpView.Maui"
+             x:Class="MauiApp2.Pages.FeedbackPage"
+             Title="AI 식단 피드백">
+
+    <ScrollView Padding="20">
+        <VerticalStackLayout Spacing="15">
+
+            <!-- 음식 이름 -->
+            <Label x:Name="FoodTitle"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   TextColor="#333"
+                   Text="🍽 음식명 표시" />
+
+            <!-- AI 피드백 문장 -->
+            <Frame BackgroundColor="#F0F0F0"
+                   Padding="15"
+                   CornerRadius="15">
+                <Label x:Name="FeedbackText"
+                       FontSize="18"
+                       TextColor="#444"
+                       Text="AI 피드백 문장 표시" />
+            </Frame>
+
+            <!-- 영양 정보 (나트륨/칼륨 등) -->
+            <Frame BackgroundColor="#EAF7FF"
+                   Padding="15"
+                   CornerRadius="15">
+                <Label x:Name="NutrientText"
+                       FontSize="16"
+                       TextColor="#555"
+                       Text="나트륨: 0mg&#x0a;칼륨: 0mg" />
+            </Frame>
+
+            <!-- 뒤로 가기 버튼 -->
+            <Button Text="⬅️ 다시 분석하기"
+                    BackgroundColor="#007AFF"
+                    TextColor="White"
+                    CornerRadius="10"
+                    Clicked="OnBackToCapture" />
+
+            <Button Text="💾 하루 식단 저장" 
+                    Clicked="OnSaveToDatabase" 
+                    BackgroundColor="#007AFF" 
+                    TextColor="White"/>
+            <Button Text="📊 통계 보기" 
+                    Clicked="OnViewStatistics" 
+                    BackgroundColor="#34C759" 
+                    TextColor="White"/>
+
+            <!--<Label Text="📊 일별 나트륨 섭취량" FontSize="18" />11-->
+
+            <!--<lvc:CartesianChart x:Name="SodiumChart" HeightRequest="200" />-->
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp2.MainPage"
+             Title="">
+
+    <!-- 루트는 하나의 Grid -->
+    <Grid RowDefinitions="*,Auto" Padding="20">
+
+        <!-- 상단(스크롤 영역) -->
+        <ScrollView Grid.Row="0">
+            <VerticalStackLayout Padding="30,0" Spacing="25">
+                <Image
+                Source="health.png"
+                HeightRequest="500"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a hovercraft number nine" />
+
+                <Label
+                FontSize="28"
+                FontAttributes="Bold"
+                HorizontalTextAlignment="Center" />
+
+                <Label
+                HorizontalTextAlignment="Center" />
+
+                <!-- 필요하다면 기존 샘플 텍스트 유지 가능 -->
+                <Label
+                HorizontalTextAlignment="Center" />
+
+            </VerticalStackLayout>
+
+        </ScrollView>
+
+
+        <!-- 하단 고정 버튼 -->
+        <Button Grid.Row="1"
+            Text="시작하기"
+            WidthRequest="400"
+            HeightRequest="50"
+            TextColor="White"
+            CornerRadius="10"
+            Margin="20,0,20,100"
+            BackgroundColor="#2E7D32"
+            Clicked="OnStart" />
+    </Grid>
+</ContentPage>
+

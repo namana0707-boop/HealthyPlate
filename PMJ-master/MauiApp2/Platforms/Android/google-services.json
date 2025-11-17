@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570929103067",
+    "project_id": "healthyplate-12095",
+    "storage_bucket": "healthyplate-12095.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570929103067:android:cd59eea45fdaa56edc8cfe",
+        "android_client_info": {
+          "package_name": "com.companyname.mauiapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMoev_KcNhO1dAsVFr40kU1Dvg9s04Tp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:lvc="clr-namespace:LiveChartsCore.SkiaSharpView.Maui;assembly=LiveChartsCore.SkiaSharpView.Maui"
+             x:Class="MauiApp2.Pages.StatisticsPage"
+             Title="📊 영양 통계">
+
+    <VerticalStackLayout Padding="20" Spacing="15">
+        <Label Text="📈 일별 나트륨·칼륨 섭취량" FontAttributes="Bold" FontSize="20" />
+        <lvc:CartesianChart x:Name="NutrientChart" HeightRequest="300" />
+    </VerticalStackLayout>
+
+</ContentPage>

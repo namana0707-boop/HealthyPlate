@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp2.Pages.RegisterPage"
+             Title="">
+    <VerticalStackLayout Padding="30,40" Spacing="15">
+
+
+
+        <!-- 제목 -->
+        <Label Text="회원가입"
+           FontSize="28"
+           FontAttributes="Bold"
+           HorizontalTextAlignment="Center"
+           TextColor="#2E7D32"
+           
+        />
+
+        <!-- 이메일 -->
+        <Label Text="이메일" FontAttributes="Bold" />
+        <Entry x:Name="txtEmail"
+           Placeholder="example@email.com"
+           WidthRequest="500"
+           HeightRequest="35" 
+           Keyboard="Email"
+           TextColor="Black"
+           PlaceholderColor="Gray"
+           BackgroundColor="#F5F5F5"
+        />
+
+        <!-- 비밀번호 -->
+        <Label Text="비밀번호" FontAttributes="Bold" />
+        <Entry x:Name="txtPassword"
+           Placeholder="비밀번호를 입력하세요"
+           WidthRequest="500"
+           HeightRequest="35"
+           IsPassword="True"
+           TextColor="Black"
+           PlaceholderColor="Gray"
+           BackgroundColor="#F5F5F5"    
+        />
+
+        <!-- 이름 -->
+        <Label Text="이름" FontAttributes="Bold" />
+        <Entry x:Name="txtName"
+           Placeholder="이름을 입력하세요"
+           WidthRequest="500"
+           HeightRequest="35"
+           TextColor="Black"
+           BackgroundColor="#F5F5F5"
+        />
+
+        <!-- 생년월일 -->
+        <Label Text="생년월일" FontAttributes="Bold" />
+        <Entry x:Name="txtBirth"
+            Placeholder="예: 1971-04-20"
+            WidthRequest="500"
+            HeightRequest="35" 
+            Keyboard="Numeric"
+            TextColor="Black"
+            BackgroundColor="#F5F5F5"
+        />
+
+        <!-- 전화번호 -->
+        <Label Text="전화번호" FontAttributes="Bold"/>
+        <Entry x:Name="txtPhone"
+            Placeholder="010-1234-5678"
+            WidthRequest="500"
+            HeightRequest="35" 
+            Keyboard="Telephone"
+            TextColor="Black"
+            BackgroundColor="#F5F5F5"
+        />
+
+        <!-- 회원가입 버튼 -->
+        <Button Text="회원가입"
+            WidthRequest="400"
+            HeightRequest="50"
+            Margin="0,100,0,0"
+            TextColor="White"
+            BackgroundColor="#2E7D32"
+            CornerRadius="10"
+            Clicked="OnRegisterClicked"    
+        />
+
+        <!-- 로그인으로 돌아가기 -->
+        <Button Text="로그인으로 돌아가기"
+            HeightRequest="45"
+            TextColor="#2E7D32"
+            BackgroundColor="Transparent"
+            Clicked="OnLoginBack" 
+        />
+
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiApp2</name>
+    </assembly>
+    <members>
+        <member name="M:YoloOnnxPredictor.InitAsync">
+            <summary>
+            앱 패키지(Resources/Raw)에서 ONNX 모델을 캐시로 복사 후 세션 초기화
+            </summary>
+        </member>
+        <member name="M:YoloOnnxPredictor.Predict(System.Byte[],System.Single)">
+            <summary>
+            바이트 이미지 입력 → YOLO 추론 → Detection 리스트 반환
+            </summary>
+        </member>
+    </members>
+</doc>
